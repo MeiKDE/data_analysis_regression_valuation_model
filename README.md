@@ -1,5 +1,3 @@
-# Checking if GitHub is still connected to my local file after renaming the filename on the repository.
-
 # Multivariable Regression and Valuation Model
 
 ## Overview
