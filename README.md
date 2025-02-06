@@ -1,3 +1,5 @@
+# 02.06:re-arranging folders and to make sure Git-Hub still works 
+
 # Multivariable Regression and Valuation Model
 
 ## Overview
